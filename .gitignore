@@ -1,0 +1,5 @@
+/db.sqlite3
+/main/migrations/*
+/main/migrations/__pycache__/*
+/main/__pycache__/*
+/djcel_001/__pycache__/*
