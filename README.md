@@ -18,7 +18,7 @@ This repo is specially made for those, who are beginners for Celery
 ## Files updated or created list 🧾
 - settings.py (line 137 to 146) (UPDATED)📑
 	
-      CELERY SETTINGS
+      #CELERY SETTINGS
 
       CEL_BROKER_URL = "redis://localhost:6379"
       CEL_RESULT_BACKEND = "redis://localhost:6379"
